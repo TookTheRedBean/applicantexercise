@@ -9,8 +9,12 @@ https://stombprd01.blob.core.windows.net/static/tokensinfo/mb_result.json
 ```
 
 Create a page with :
-	1. Dropdown of community combos filters to select (one or multiple multiple combos)
-	2. Click to select my NFTs (NFT held by your address)
+``` 
+Dropdown of community combos filters to select (one or multiple multiple combos)
+```
+``` 
+Click to select my NFTs (NFT held by your address)
+
 
 
 ## Requirements
