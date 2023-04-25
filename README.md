@@ -10,7 +10,7 @@ https://stombprd01.blob.core.windows.net/static/tokensinfo/mb_result.json
 
 End result must include the below :
 ``` 
-1. Dropdown of community combos filters to select (one or multiple multiple combos)
+1. Filter area using checkboxes for each community combo filters to select (one or multiple multiple combos can be selected)
 ```
 ``` 
 2. Click to select my NFTs (NFT held by your address)
