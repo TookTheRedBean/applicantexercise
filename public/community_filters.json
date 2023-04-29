@@ -1,0 +1,114 @@
+[
+    {
+        "attributes.Architecture": [
+            "Greenhouse"
+        ],
+        "attributes.Interior": [
+            "Overgrown"
+        ]
+    },
+    {
+        "attributes.Architecture": [
+            "Japanese Traditional"
+        ],
+        "attributes.Interior": [
+            "Ramen Shop"
+        ],
+        "attributes.Decoration": [
+            "Pork Noodles"
+        ]
+    },
+    {
+        "attributes.Architecture": [
+            "Modern"
+        ],
+        "attributes.Interior": [
+            "Space"
+        ]
+    },
+    {
+        "attributes.Architecture": [
+            "Tokyo Street"
+        ],
+        "attributes.Midground": [
+            "Industrial"
+        ],
+        "attributes.Background": [
+            "Highway"
+        ]
+    },
+    {
+        "attributes.Architecture": [
+            "Concrete Denza"
+        ],
+        "attributes.Car": [
+            "Tram",
+            "Tram Pink",
+            "Tram Green",
+            "Tram Tagged"
+        ]
+    },
+    {
+        "attributes.Interior": [
+            "Midnight Breeze Shop"
+        ],
+        "attributes.Architecture": [
+            "Convenience Store"
+        ],
+        "attributes.Decoration": [
+            "GM Shop"
+        ]
+    },
+    {
+        "attributes.Interior": [
+            "Fish Bowl"
+        ],
+        "attributes.Background": [
+            "Beach",
+            "Island Sea"
+        ],
+        "attributes.Architecture": [
+            "Concrete Wave"
+        ]
+    },
+    {
+        "Sky Element": [
+            "Cat Kami"
+        ],
+        "attributes.Interior": [
+            "Fish Bowl"
+        ]
+    },
+    {
+        "attributes.Interior": [
+            "Tatami Shiba Cat"
+        ],
+        "attributes.Character": [
+            "Bus Stop",
+            "Samu Frogs"
+        ]
+    },
+    {
+        "attributes.Car": [
+            "Tram",
+            "Tram Pink",
+            "Tram Green",
+            "Tram Tagged"
+        ],
+        "attributes.Foreground": [
+            "Train Light"
+        ],
+        "attributes.Character": [
+            "Bus Stop"
+        ]
+    },
+    {
+        "attributes.Midground": [
+            "Palms"
+        ],
+        "attributes.Background": [
+            "Beach",
+            "Island Sea"
+        ]
+    }
+]

@@ -11,7 +11,7 @@ export const HomePageWrapper = styled(motion.div)`
     overflow: hidden;
     display:flex;
     flex-direction:column;
-    justify-content:center;
+    justify-content:flex-start;
     align-items:center;
 
     h1 {
