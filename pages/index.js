@@ -256,7 +256,7 @@ export default function Home() {
                 // TODO - Move away from AutoSizer and set up a grid based on css breakpoints
                 const columnWidth = 420;
                 const columnCount = Math.max(1, Math.floor(width / columnWidth))
-                const rowHeight = Math.min(200, width / 2)
+                const rowHeight = 200;
 
                 return (
                   <Grid
